@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1717438659342" clover="3.2.0">
+  <project timestamp="1717438659342" name="All files">
+    <metrics statements="14" coveredstatements="14" conditionals="6" coveredconditionals="3" methods="7" coveredmethods="7" elements="27" coveredelements="24" complexity="0" loc="14" ncloc="14" packages="1" files="3" classes="3"/>
+    <file name="classTest.js" path="E:\IT doc\projet 9\jest test tuto\src\app\classTest.js">
+      <metrics statements="4" coveredstatements="4" conditionals="2" coveredconditionals="1" methods="2" coveredmethods="2"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="9" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+    <file name="fetchData.js" path="E:\IT doc\projet 9\jest test tuto\src\app\fetchData.js">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="3" coveredmethods="3"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+    </file>
+    <file name="prise.js" path="E:\IT doc\projet 9\jest test tuto\src\app\prise.js">
+      <metrics statements="4" coveredstatements="4" conditionals="4" coveredconditionals="2" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="1" type="cond" truecount="1" falsecount="1"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="6" count="1" type="cond" truecount="1" falsecount="1"/>
+    </file>
+  </project>
+</coverage>
